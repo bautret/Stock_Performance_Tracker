@@ -2,6 +2,8 @@
 
 [LINK TO THE TOOL]
 
+PLEASE MAKE A COPY TO BE ABLE TO USE/EDIT IT
+
 ## Description
 
 Tool in Google Sheets using GOOGLEFINANCE formula to get stock prices and calculate evolution overtime.
