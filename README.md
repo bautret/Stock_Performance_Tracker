@@ -20,7 +20,7 @@ Other sheets:
 
 ## Purpose
 
-Track the **best-performing stocks** (in % evolution) in the **timeline** desired *(week, month ... 5 years). (e.g., to track the yearly growth, it would be the price from the last trading day vs. the price one year ago).*
+Track the **best-performing stocks** *(in % evolution)* in the **timeline** desired *(week, month ... 5 years).*
 
 ## Criteria selected
 
