@@ -1,8 +1,10 @@
 # Stock_Performance_Tracker
 
-[LINK TO THE TOOL]
+[LINK TO THE TOOL](https://docs.google.com/spreadsheets/d/1Jx4zkkOKg8taJ4Y9uPvNRsxRjJqXYq91SuDoTqNDCg4/edit?usp=sharing)
 
 PLEASE MAKE A COPY TO BE ABLE TO USE/EDIT IT
+
+CAN TAKE A FEW MINUTES TO CHARGE (Decrease the number of Symbols to make it faster).
 
 ## Description
 
@@ -24,7 +26,7 @@ Track the **best-performing stocks** *(in % evolution)* in the **timeline** desi
 
 ## Criteria selected
 
-The files would crash if it were calculating the prices for the 8,258 symbols. Only the symbols with a market cap over $10B have been kept for calculations *(once copied, you can modify this initial selection to suit your needs best).*
+The files would crash if it were calculating the prices for the 8,258 symbols. Only the symbols with a market cap over $100B have been kept for calculations *(once copied, you can modify this initial selection to suit your needs best).*
 
 ## How to play with the file
 *(you need to copy the file first)*
