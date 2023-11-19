@@ -1,6 +1,6 @@
 # Stock_Performance_Tracker
 
-[LINK TO THE TOOL](https://docs.google.com/spreadsheets/d/1Jx4zkkOKg8taJ4Y9uPvNRsxRjJqXYq91SuDoTqNDCg4/edit?usp=sharing)
+### [LINK TO THE TOOL](https://docs.google.com/spreadsheets/d/1Jx4zkkOKg8taJ4Y9uPvNRsxRjJqXYq91SuDoTqNDCg4/edit?usp=sharing)
 
 PLEASE MAKE A COPY TO BE ABLE TO USE/EDIT IT
 
